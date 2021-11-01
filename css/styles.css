@@ -2,3 +2,7 @@
 #letter-container{
   display: none;
 }
+
+#signed-name {
+  font-style: italic;
+}
