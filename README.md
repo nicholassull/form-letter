@@ -2,7 +2,7 @@
 
 #### By _**Nick Sullivan**_
 
-#### _A webpage to receive and exciting letter._
+#### _A webpage to receive an exciting letter._
 
 ## Technologies Used
 
