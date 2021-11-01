@@ -1,6 +1,11 @@
+body {
+  background-color: rgb(199, 226, 241);
+}
 
 #letter-container{
   display: none;
+  background-color: rgb(241, 223, 198);
+  margin-top: 20px;
 }
 
 #signed-name {
