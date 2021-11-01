@@ -2,10 +2,16 @@ body {
   background-color: rgb(199, 226, 241);
 }
 
+.container {
+  max-width: 900px;
+}
+
 #letter-container{
   display: none;
+  max-width: 600px;
+  margin:auto;
   background-color: rgb(241, 223, 198);
-  margin-top: 20px;
+  margin-top: 40px;
 }
 
 #signed-name {
