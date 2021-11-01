@@ -10,6 +10,7 @@ body {
   display: none;
   max-width: 600px;
   margin:auto;
+  border-radius: 15px;
   background-color: rgb(241, 223, 198);
   margin-top: 40px;
 }
