@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+  <link href="css/styles.css" rel="stylesheet" type="text/css">
+  <script src="js/jquery-3.6.0.js"></script>
+  <script src="js/scripts.js"></script>
+  <title>A fantastical adventure</title>
+</head>
+<body class="container">
+  <h1>Form Letter</h1>
+  <p>Input your name below to have your very own personal letter addressed to you!</p>
+
+  <form id="main-form">
+    <div class="form-group">
+      <label for="user-name">Name</label>
+      <input type="text" class="form-control" id="user-name">
+    </div>
+    <button type="submit">Receive your letter...</button>
+  </form>
+
+  <div id="letter-container">
+    <p>Dear, <span id="letter-address"></span></p>
+    <p>We are pleased to inform you that you have been accepted into the Accademy of Wildy Wonderful People. You have been chosen as the most wonderful person known to humanity. Therefore, you are, upon the reading of this letter, the president of the Accademy of Wildly Wonderful People.</p>
+    <p>We send our heartfelt congratulations and wish you the best in your new and exciting position.</p>
+    <span id="signed-name">The Board of Wonderful People</span>
+  </div>
+</body>
+</html>
