@@ -1,3 +1,7 @@
 .btn {
   background-color: rgb(161, 190, 190);
 }
+
+#letter-container{
+  display: none;
+}
